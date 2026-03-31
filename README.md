@@ -26,17 +26,29 @@ to the software of your choosing to make a model.
 # --- File Structure ---
 Generally the notebook is built to expect a file structure like this:
 project/
+
 ├── README.md
+
 ├── PG\_Notebook.ipynb
+
 └── PG\_inputs/
+
 └── PG\_outputs/
+
 ├── src/
+
 │   ├── PG\_functions.py
+
 └── exiftool-13.XX\_64/
+
 │   ├── exiftool.exe
+
 │   ├── exiftool\_files/
+
 │   ├── README.txt
+
 └── ipynb\_checkpoints/
+
 └── Sample\_Inputs/
 
 
