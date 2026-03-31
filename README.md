@@ -25,6 +25,7 @@ to the software of your choosing to make a model.
 
 # --- File Structure ---
 Generally the notebook is built to expect a file structure like this:
+
 project/
 
 ├── README.md
