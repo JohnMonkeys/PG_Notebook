@@ -6,7 +6,7 @@ PyODM: https://www.opendronemap.org/pyodm/
 
 
 
-\#--- Notes ---
+#--- Notes ---
 This is a project I made as part of my geophysics class at UBC, EOSC 556.
 I am a beginner in both python and photogrammetry, so this is a learning process for me. I used Gemini to help
 me generate some code and do some debugging, though it was a pretty hands on process.
@@ -23,7 +23,7 @@ to the software of your choosing to make a model.
 
 
 
-\#--- File Structure ---
+# --- File Structure ---
 Generally the notebook is built to expect a file structure like this:
 project/
 ├── README.md
